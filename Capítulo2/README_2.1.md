@@ -23,9 +23,9 @@ Opción 1: Puede realizarlo manualmente y tomarle una foto si desea compartirlo.
 Opción 2: Puede usar la siguiente herramienta online que no requiere registro y siguiendo los siguientes pasos:
 1.	Ingresar a https://app.smartdraw.com/
 2.	Buscar “Mind Map”
-![diagrama1](../images/2.1.Img2.jpg)
+![diagrama1](../images/2.1.Img3.jpg)
 3.	Seleccionar la plantilla “Mind Map”
-![diagrama1](../images/2.1.Img2.jpg)
+![diagrama1](../images/2.1.Img4.jpg)
 
 ### Resultado esperado
 Con base en el siguiente ejemplo, reemplazar los textos con la información solicitada.
