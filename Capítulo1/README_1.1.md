@@ -1,4 +1,4 @@
-# Las Diferentes Metodologías
+# 1.1. Las Diferentes Metodologías
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
