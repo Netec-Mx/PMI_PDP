@@ -18,5 +18,6 @@ Relacione en el siguiente cuadro algunos supuestos y restricciones de acuerdo a 
 ### Tarea. Abra el archivo de Excel titulado “3.1.RegistroSupuestos”
 
 ### Resultado esperado
-Con base en las dos líneas del siguiente ejemplo, llenar el cuadro con la información solicitada.
+Con base en las dos líneas del siguiente ejemplo, llenar el cuadro con la información solicitada:
+
 ![imagen resultado](../images/3.1.ImgEjemplo.jpg)
