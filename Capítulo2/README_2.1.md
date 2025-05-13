@@ -2,6 +2,7 @@
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
+
 Entender la importancia de conocer y comprender el caso de negocio como una herramienta que permite que los objetivos estratégicos del negocio sean tomados en cuenta para el proyecto.
 
 ## Objetivo Visual 
@@ -29,5 +30,6 @@ Opción 2: Puede usar la siguiente herramienta online que no requiere registro y
 ![diagrama1](../images/2.1.Img4.jpg)
 
 ### Resultado esperado
-Con base en el siguiente ejemplo, reemplazar los textos con la información solicitada.
+Con base en el siguiente ejemplo, reemplazar los textos con la información solicitada:
+
 ![imagen resultado](../images/2.1.ImgEjemplo.jpg)
