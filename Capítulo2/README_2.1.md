@@ -30,7 +30,7 @@ Opción 2: Puede usar la siguiente herramienta online que no requiere registro y
 2.	Buscar “Mind Map”
    
 ![diagrama1](../images/2.1.Img3.jpg)
-4.	Seleccionar la plantilla “Mind Map”
+3.	Seleccionar la plantilla “Mind Map”
 
 ![diagrama1](../images/2.1.Img4.jpg)
 
