@@ -2,11 +2,12 @@
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
+
 Reconocer la importancia de registrar los supuestos realizados en el inicio del proyecto y por qué estos se analizarán en las siguientes etapas para estar preparados para afrontarlos.
 ## Objetivo Visual 
 Relacione en el siguiente cuadro algunos supuestos y restricciones de acuerdo a la lectura del caso de estudio o de su experiencia profesional.
 
-![diagrama1](../images/3.1.Img.jpg)
+![diagrama1](../images/3.1.Img1.jpg)
 
 ## Duración aproximada:
 - 30 minutos.
