@@ -1,4 +1,4 @@
-# 3.1. Registro de Interesados
+# 3.2. Registro de Interesados
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
