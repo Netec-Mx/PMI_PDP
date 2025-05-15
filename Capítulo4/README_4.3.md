@@ -24,5 +24,4 @@ A continuación, se listan las actividades necesarias para organizar una fiesta,
 ### Resultado esperado
 1.  A → C → G = 2 + 2 + 0 = 4 días
 2.  A → D → F → G = 2 + 1 + 1 + 0 = 4 días
-3.  B → E → G = 1 + 2 + 0 = 3 días
 
