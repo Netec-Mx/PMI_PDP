@@ -1,6 +1,6 @@
 # 4.2. Alcance del Proyecto
 
-## Registro de Requisitos
+# 4.2.1. Registro de Requisitos
 
 ## Objetivo de la práctica:
 
