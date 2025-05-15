@@ -18,9 +18,13 @@ Tomando en cuenta su experiencia laboral, el acta de proyecto y el registro y la
 
 ### Tarea. Abra el archivo de Excel titulado “4.5.MatrizComunicaciones” y complete la siguiente información.
 •	A quien comunicar: Al o los interesados identificados (puede formar grupos de interesados)
+
 •	Mensaje: Que información debe comunicar (sobre el tiempo, costo, alcance, calidad, etc.)
+
 •	Formato del mensaje: Establezca si el mensaje debe ser formal, informal, oral o escrito
+
 •	Frecuencia: Derivado del análisis de importancia de los interesados, establezca con que tanta frecuencia deberán ser informados (Fecha o periodo de tiempo)
+
 •	Responsable: Quien será responsable de emitir dicha comunicación
 
 ### Resultado esperado
