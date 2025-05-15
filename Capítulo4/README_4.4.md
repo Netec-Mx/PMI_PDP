@@ -1,42 +1,25 @@
-# Nombre del laboratorio 
+# 4.4. Riesgos
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+
+Identificar y analizar los riesgos que afectan al proyecto y establecer los planes de mitigación necesarios para afrontar dichos riesgos
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Tomando en cuenta el caso de estudio o su experiencia profesional, identifique amenazas y oportunidades a las que se podría enfrentarse el proyecto y escríbalas en el formato de Registro de Riesgos, así mismo evalúe la probabilidad y el impacto de cada riesgo para establecer su severidad y la posible acción para mitigarlos.
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/4.4.Img1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 25 minutos.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Excel titulado “4.4.Riesgos”
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+Con base en las primeras tres líneas de ejemplo, llenar el cuadro con la información solicitada:
+
+![imagen resultado](../images/4.4.ImgEjemplo.jpg)
 
