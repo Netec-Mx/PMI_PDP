@@ -1,42 +1,33 @@
-# Nombre del laboratorio 
+# 4.3. Ruta Crítica
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+
+Hacer los cálculos correctos para mostrar la secuencia de actividades necesarias para completar el trabajo del proyecto y establecerá la ruta crítica.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Siguiendo el ejercicio identifique la secuencia de actividades que establecerán la ruta crítica.
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/4.3.Img1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 25 minutos.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
-
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
-
-Paso 2. <!-- Añadir instrucción -->
-
-Paso 3. <!-- Añadir instrucción -->
+### Tarea. Identificar las rutas desde el inicio hasta la actividad final G:
+Actividad	Descripción	Duración (días)	Predecesoras
+A	Elegir lugar	2	-
+B	Hacer lista de invitados	1	-
+C	Contratar música	2	A
+D	Comprar decoración	1	A
+E	Enviar invitaciones	2	B
+F	Decorar el lugar	1	D
+G	Fiesta	0	C, E, F
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+1.  A → C → G = 2 + 2 + 0 = 4 días
+2.  A → D → F → G = 2 + 1 + 1 + 0 = 4 días
+3.  B → E → G = 1 + 2 + 0 = 3 días
 
