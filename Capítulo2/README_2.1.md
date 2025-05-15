@@ -23,7 +23,7 @@ Opción 2. Caso de estudio de Construcción. Abra el archivo PDF titulado “2.1
 
 ![diagrama1](../images/2.1.Img2.jpg)
 ### Tarea2.  Hacer un mapa mental con los principales elementos y afectaciones al proyecto, identificando: ¿Qué?, ¿Por qué? ¿cuándo? ¿Para qué? ¿Quién? ¿Cómo? entre otros datos.
-Opción 1: Puede realizarlo manualmente y tomarle una foto si desea compartirlo.
+Opción 1: Puede realizarlo manualmente y tomarle una foto si desea compartirlo o usar la herramienta de su preferencia.
 
 Opción 2: Puede usar la siguiente herramienta online que no requiere registro y siguiendo los siguientes pasos:
 1.	Ingresar a https://app.smartdraw.com/
