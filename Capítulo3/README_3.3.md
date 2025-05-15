@@ -14,7 +14,7 @@ Genere un acta de constitución, identificando por lo menos: descripción del pr
 - 30 minutos.
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea1. Generar un acta de constitución, identificando por lo menos: descripción del proyecto, justificación, objetivos, criterios de éxito, suposiciones y restricciones, interesados, aprobación más otros elementos que desee adicionar.
+### Tarea. Generar un acta de constitución, identificando por lo menos: descripción del proyecto, justificación, objetivos, criterios de éxito, suposiciones y restricciones, interesados, aprobación más otros elementos que desee adicionar.
 Opción 1. Revise el caso de estudio de su preferencia, analice la información solicitada y regístrela en el archivo de Excel titulado “3.3.ActaConstitución”
 
 Opción 2: Puede usar la siguiente herramienta online de inteligencia artificial generativa que no requiere registro y siguiendo los siguientes pasos:
