@@ -22,7 +22,7 @@ Tomando en cuenta el registro de riesgos ya realizado, determine qué plan de c
 •	Estrategia: Basado en el registro de riesgos determine que estrategia de atención a riesgos debe implementar.
 
 ### Resultado esperado
-Con base en el ejemplo de las columnas Situación y Estrategia, ambas resaltas en rojo, llenar el cuadro con la información solicitada:
+Con base en el ejemplo de las columnas Situación y Estrategia, ambas resaltadas en rojo, llenar el cuadro con la información solicitada:
 
 ![imagen resultado](../images/5.1.ImgEjemplo.jpg)
 
