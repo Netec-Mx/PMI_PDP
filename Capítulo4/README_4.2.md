@@ -1,6 +1,9 @@
-# 4.2. Registro de Requisitos
+# 4.2. Alcance del Proyecto
+
+## Registro de Requisitos
 
 ## Objetivo de la práctica:
+
 Al finalizar la práctica, serás capaz de:
 
 Identificar y clasificar los requisitos identificados en los documentos que se generan durante la planificación.
