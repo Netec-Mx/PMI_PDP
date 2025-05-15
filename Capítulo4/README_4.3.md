@@ -17,14 +17,9 @@ Siguiendo el ejercicio identifique la secuencia de actividades que establecerán
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
 ### Tarea. Identificar las rutas desde el inicio hasta la actividad final G:
-Actividad	Descripción	Duración (días)	Predecesoras
-A	Elegir lugar	2	-
-B	Hacer lista de invitados	1	-
-C	Contratar música	2	A
-D	Comprar decoración	1	A
-E	Enviar invitaciones	2	B
-F	Decorar el lugar	1	D
-G	Fiesta	0	C, E, F
+A continuación, se listan las actividades necesarias para organizar una fiesta, junto con sus duraciones y dependencias:
+
+![diagrama1](../images/4.3.Img2.jpg)
 
 ### Resultado esperado
 1.  A → C → G = 2 + 2 + 0 = 4 días
