@@ -16,7 +16,7 @@ Tomando en cuenta su experiencia profesional, el acta de proyecto, los riesgos p
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
-### Tarea. Abra el archivo de Excel titulado “7.1.InformeFinal” y complete la siguiente información: 
+### Tarea. Abra el archivo de Word titulado “7.1.InformeFinal” y complete la siguiente información: 
 •	Información General del Proyecto
 
 •	Resumen Ejecutivo
