@@ -14,7 +14,7 @@ Genere un acta de constitución, identificando por lo menos: descripción del pr
 - 30 minutos.
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea. Generar un acta de constitución y completando la siguiente información: 
+### Tarea. Generar un acta de constitución completando la siguiente información: 
 
 •	Descripción del Proyecto: Resumen general del proyecto: qué se hará, para quién, con qué propósito y a grandes rasgos cómo se ejecutará.
 
