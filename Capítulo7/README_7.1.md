@@ -34,3 +34,7 @@ Con base en el ejemplo, llenar el informe con la información solicitada:
 
 ![imagen resultado](../images/7.1.ImgEjemplo.jpg)
 
+![imagen resultado](../images/7.1.ImgEjemplo2.jpg)
+
+
+
