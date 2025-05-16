@@ -17,17 +17,19 @@ Tomando en cuenta su experiencia profesional, el acta de proyecto, los riesgos p
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
 ### Tarea. Abra el archivo de Word titulado “7.1.InformeFinal” y complete la siguiente información: 
-•	Información General del Proyecto
 
-•	Resumen Ejecutivo
+•	Información General del Proyecto: Datos básicos como nombre, duración, responsable y área ejecutora.
 
-•	Cumplimiento de Objetivos
+•	Resumen Ejecutivo: Síntesis del desarrollo y resultados del proyecto, incluyendo logros y dificultades.
 
-•	Alcance Final del Proyecto
+•	Cumplimiento de Objetivos: Evaluación del grado en que se alcanzaron los objetivos propuestos.
 
-•	Análisis de Desempeño del Proyecto 
+•	Alcance Final del Proyecto: Productos, entregables y actividades realmente completadas al cierre.
 
-•	Cierre Administrativo
+•	Análisis de Desempeño del Proyecto: Comparación entre lo planificado y lo ejecutado en costo, tiempo y calidad.
+
+•	Cierre Administrativo: Validación formal del cierre del proyecto, entrega de documentación y liberación de recursos.
+
 
 ### Resultado esperado
 Con base en el ejemplo, llenar el informe con la información solicitada:
