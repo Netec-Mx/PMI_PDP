@@ -18,6 +18,7 @@ Relacione en el siguiente cuadro algunos supuestos y restricciones de acuerdo a 
 ### Tarea. Abra el archivo de Excel titulado “3.1.RegistroSupuestos” y complete la siguiente información: 
 
 RESTRICCIONES
+
 •	ID: Identificador único de la restricción (puede ser un número o código). Sirve para referenciarla fácilmente.
 
 •	Nombre: Título corto o nombre de la restricción (por ejemplo: “Presupuesto fijo”, “Plazo contractual”, “Recursos limitados”).
@@ -29,6 +30,7 @@ RESTRICCIONES
 •	Comentarios de Cierre:	Observaciones finales sobre cómo se gestionó la restricción, si se resolvió, si sigue afectando, o cualquier aprendizaje asociado.
 
 SUPUESTOS
+
 •	ID: Número o código identificador del supuesto. Útil para organización y referencia rápida.
 
 •	Nombre: Título o resumen del supuesto. Resume brevemente la idea clave asumida (por ejemplo: “Financiación por crédito bancario”).
