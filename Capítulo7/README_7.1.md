@@ -16,9 +16,21 @@ Tomando en cuenta su experiencia profesional, el acta de proyecto, los riesgos p
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
-### Tarea. Abra el archivo de Excel titulado “7.1.InformeFinal” y complete la siguiente información: Información General del Proyecto, Resumen Ejecutivo, Cumplimiento de Objetivos, Alcance Final del Proyecto, Análisis de Desempeño del Proyecto y Cierre Administrativo
+### Tarea. Abra el archivo de Excel titulado “7.1.InformeFinal” y complete la siguiente información: 
+•	Información General del Proyecto
+
+•	Resumen Ejecutivo
+
+•	Cumplimiento de Objetivos
+
+•	Alcance Final del Proyecto
+
+•	Análisis de Desempeño del Proyecto 
+
+•	Cierre Administrativo
 
 ### Resultado esperado
-Con base en el ejemplo, llenar el cuadro con la información solicitada:
+Con base en el ejemplo, llenar el informe con la información solicitada:
 
 ![imagen resultado](../images/7.1.ImgEjemplo.jpg)
+
