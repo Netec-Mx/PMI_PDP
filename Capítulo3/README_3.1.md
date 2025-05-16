@@ -17,7 +17,7 @@ Relacione en el siguiente cuadro algunos supuestos y restricciones de acuerdo a 
 
 ### Tarea. Abra el archivo de Excel titulado “3.1.RegistroSupuestos” y complete la siguiente información: 
 
-RESTRICCIONES
+#### RESTRICCIONES
 
 •	ID: Identificador único de la restricción (puede ser un número o código). Sirve para referenciarla fácilmente.
 
@@ -29,7 +29,7 @@ RESTRICCIONES
 
 •	Comentarios de Cierre:	Observaciones finales sobre cómo se gestionó la restricción, si se resolvió, si sigue afectando, o cualquier aprendizaje asociado.
 
-SUPUESTOS
+#### SUPUESTOS
 
 •	ID: Número o código identificador del supuesto. Útil para organización y referencia rápida.
 
