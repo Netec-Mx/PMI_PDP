@@ -16,7 +16,20 @@ Relacione en el siguiente cuadro las metodologías que ha usado en su desempeño
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
-### Tarea. Abra el archivo de Excel titulado “1.1.MetodologíasDirecciónProyectos”
+### Tarea. Abra el archivo de Excel titulado “1.1.MetodologíasDirecciónProyectos” y complete la siguiente información:
+•	Metodología: Nombre de la metodología de gestión de proyectos que se evaluará (por ejemplo: Cascada, Ágil, Scrum, Kanban, PRINCE2, etc.).
+
+•	Descripción: Breve explicación de cómo funciona la metodología, sus principios, estructura, y enfoque general.
+
+
+•	Ventajas: Beneficios clave que ofrece la metodología, como flexibilidad, control, mejora continua, enfoque en el cliente, entre otros.
+
+•	Desventajas: Limitaciones o riesgos comunes asociados con el uso de esa metodología (por ejemplo: rigidez, dificultad de adaptación, dependencia del equipo, etc.).
+
+•	¿A cuál me adapto mejor?: Aquí se selecciona la metodología que mejor se ajusta a tu forma de trabajo, personalidad o experiencia.
+
+•	¿Por qué me adapto mejor a esta metodología?: Justificación personal basada en tu experiencia, estilo de trabajo, preferencias o habilidades sobre por qué esa metodología te resulta más efectiva.
+
 
 ### Resultado esperado
 Con base en la primera línea del siguiente ejemplo, llenar el cuadro con la información solicitada:
