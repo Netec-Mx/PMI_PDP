@@ -15,7 +15,25 @@ Tomando en cuenta la matriz de comunicaciones, el escenario de riesgos y su expe
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
-### Tarea. Generar un informe de avance que incluya: nombre del proyecto, fecha, resumen ejecutivo, avance general del proyecto, estado de entregables claves, gestión de riesgos y solicitudes de cambio aprobadas.
+### Tarea. Generar un informe de avance completando la siguiente información:
+
+•	Nombre del proyecto: Título oficial del proyecto que se está reportando.
+
+•	Fecha: Día en que se emite el informe de avance.
+
+•	Resumen ejecutivo: Visión general del estado del proyecto, incluyendo logros, problemas y decisiones clave.
+
+•	Avance general del proyecto: Porcentaje de progreso alcanzado respecto al plan establecido.
+
+•	Estado de entregables claves: Situación actual de los principales productos o resultados del proyecto.
+
+•	Gestión de riesgos: Actualización de los riesgos identificados, su impacto, probabilidad y acciones tomadas.
+
+•	Solicitudes de cambio aprobadas: Cambios al alcance, cronograma o recursos que han sido formalmente autorizados.
+
+
+#### Para generar el informe se presentan estas dos opciones, escoja la de su preferencia:
+
 Opción 1: Puede realizarlo usando el archivo de Word titulado “5.2.InformeAvance”.
 
 Opción 2: Puede usar la siguiente herramienta online de inteligencia artificial generativa que no requiere registro y siguiendo los siguientes pasos:
