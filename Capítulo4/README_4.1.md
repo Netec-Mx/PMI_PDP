@@ -15,7 +15,19 @@ Tomando en cuenta el caso de estudio o su experiencia profesional y de acuerdo e
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
-### Tarea. Abra el archivo de Excel titulado “4.1.PlanificaciónRecursos”
+### Tarea. Abra el archivo de Excel titulado “4.1.PlanificaciónRecursos” y complete la siguiente información: 
+
+• Tipo Recurso: Indica la categoría del recurso utilizado en el proyecto (ej. humano, material, financiero, tecnológico).
+
+• Nombre: Especifica el nombre del recurso (persona, equipo, herramienta, etc.).
+
+• Estado: Muestra la disponibilidad o situación actual del recurso (disponible, asignado, en uso, no disponible).
+
+• Fecha de Inicio: Fecha en la que el recurso comienza a ser utilizado dentro del proyecto.
+
+• Fecha Final: Fecha en la que el uso del recurso termina.
+
+• Duración (días): Número total de días que el recurso estará activo o asignado en el proyecto (calculado entre fecha inicio y final).
 
 ### Resultado esperado
 Con base en el siguiente ejemplo, llenar el cuadro con la información solicitada:

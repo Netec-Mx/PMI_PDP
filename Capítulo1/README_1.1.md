@@ -1,41 +1,37 @@
-# Nombre del laboratorio 
+# 1.1. Las Diferentes Metodologías
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+
+Reconocer las diferentes metodologías, acercamientos y/o estándares aplicados a la dirección de proyectos usados por los participantes en su desarrollo profesional, así como cuál es la metodología más usual.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Relacione en el siguiente cuadro las metodologías que ha usado en su desempeño profesional, si no ha utilizado alguna, deje el espacio en blanco. Tome como base las metodologías vistas en clase.
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/1.1.Img.jpg)
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 15 minutos.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Excel titulado “1.1.MetodologíasDirecciónProyectos” y complete la siguiente información:
+•	Metodología: Nombre de la metodología de gestión de proyectos que se evaluará (por ejemplo: Cascada, Ágil, Scrum, Kanban, PRINCE2, etc.).
 
-Paso 3. <!-- Añadir instrucción -->
+•	Descripción: Breve explicación de cómo funciona la metodología, sus principios, estructura, y enfoque general.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+•	Ventajas: Beneficios clave que ofrece la metodología, como flexibilidad, control, mejora continua, enfoque en el cliente, entre otros.
 
-Paso 3. <!-- Añadir instrucción -->
+•	Desventajas: Limitaciones o riesgos comunes asociados con el uso de esa metodología (por ejemplo: rigidez, dificultad de adaptación, dependencia del equipo, etc.).
+
+•	¿A cuál me adapto mejor?: Aquí se selecciona la metodología que mejor se ajusta a tu forma de trabajo, personalidad o experiencia.
+
+•	¿Por qué me adapto mejor a esta metodología?: Justificación personal basada en tu experiencia, estilo de trabajo, preferencias o habilidades sobre por qué esa metodología te resulta más efectiva.
+
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+Con base en la primera línea del siguiente ejemplo, llenar el cuadro con la información solicitada:
+
+![imagen resultado](../images/1.1.ImgEjemplo.jpg)

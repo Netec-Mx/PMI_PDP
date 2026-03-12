@@ -1,42 +1,50 @@
-# Nombre del laboratorio 
-
+# 5.2. Informe de Avance
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
 
+Identificar los elementos principales que debe tomar en cuenta en una reunión de avance a fin de hacerla lo más efectiva posible
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Tomando en cuenta la matriz de comunicaciones, el escenario de riesgos y su experiencia profesional, realice un informe para una reunión de seguimiento en esta fase de ejecución.
 
-![diagrama1](../images/img1.png)
+
+![diagrama1](../images/5.2.Img1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 30 minutos.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea. Generar un informe de avance completando la siguiente información:
 
-Paso 3. <!-- Añadir instrucción -->
+•	Nombre del proyecto: Título oficial del proyecto que se está reportando.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+•	Fecha: Día en que se emite el informe de avance.
 
-Paso 2. <!-- Añadir instrucción -->
+•	Resumen ejecutivo: Visión general del estado del proyecto, incluyendo logros, problemas y decisiones clave.
 
-Paso 3. <!-- Añadir instrucción -->
+•	Avance general del proyecto: Porcentaje de progreso alcanzado respecto al plan establecido.
+
+•	Estado de entregables claves: Situación actual de los principales productos o resultados del proyecto.
+
+•	Gestión de riesgos: Actualización de los riesgos identificados, su impacto, probabilidad y acciones tomadas.
+
+•	Solicitudes de cambio aprobadas: Cambios al alcance, cronograma o recursos que han sido formalmente autorizados.
+
+
+#### Para generar el informe se presentan estas dos opciones, escoja la de su preferencia:
+
+Opción 1: Puede realizarlo usando el archivo de Word titulado “5.2.InformeAvance”.
+
+Opción 2: Puede usar la siguiente herramienta online de inteligencia artificial generativa que no requiere registro y siguiendo los siguientes pasos:
+1.	Ingresar a https://piktochart.com/generative-ai/editor/
+
+2.	Escribir las instrucciones (prompt) para generar informe de avance. En la parte inferior de la imagen se resalta en rojo un ejemplo del prompt (que es el mismo descrito en esta tarea), el cual lo pueden tomar como base y ampliarlo más para obtener mayor detalle en el resultado.
+
+![diagrama1](../images/5.2.Img2.jpg)
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+Con base en el siguiente ejemplo, generar la información solicitada:
+
+![imagen resultado](../images/5.2.ImgEjemplo.jpg)
 

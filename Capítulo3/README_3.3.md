@@ -1,42 +1,56 @@
-# Nombre del laboratorio 
+# 3.3. Acta de Constitución
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+
+Identificar los principales elementos que debe contener el acta de proyecto, así como las bondades de este documento.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Genere un acta de constitución, identificando por lo menos: descripción del proyecto, justificación, objetivos, criterios de éxito, suposiciones y restricciones, interesados, aprobación más otros elementos que desee adicionar.
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/3.3.Img1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
-
+- 30 minutos.
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+### Tarea. Generar un acta de constitución completando la siguiente información: 
 
-Paso 2. <!-- Añadir instrucción -->
+•	Descripción del Proyecto: Resumen general del proyecto: qué se hará, para quién, con qué propósito y a grandes rasgos cómo se ejecutará.
 
-Paso 3. <!-- Añadir instrucción -->
+•	Justificación: Razones que motivan la ejecución del proyecto: necesidad de negocio, oportunidad del mercado, requerimiento legal, mejora operativa, etc.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+•	Objetivos: Resultados medibles que se esperan lograr. Deben ser específicos, alcanzables y estar alineados al propósito del proyecto.
 
-Paso 2. <!-- Añadir instrucción -->
+•	Criterios de Éxito: Condiciones específicas que deben cumplirse para considerar el proyecto exitoso (ej. tiempo, costo, calidad, satisfacción del cliente, etc.).
 
-Paso 3. <!-- Añadir instrucción -->
+•	Suposiciones: Condiciones que se consideran verdaderas para planificar, pero que podrían cambiar (ej. disponibilidad de recursos, apoyo externo).
+
+•	Restricciones: Factores que limitan las opciones del proyecto, como presupuesto, fechas, alcance, recursos, normativas, etc.
+
+•	Interesados: Personas u organizaciones afectadas o con influencia sobre el proyecto. Se identifican sus roles, nivel de influencia e intereses.
+
+•	Aprobación: Identificación del patrocinador o autoridad que autoriza formalmente el inicio del proyecto. Incluye nombre, cargo, firma y fecha.
+
+•	Otros elementos (opcional): Puedes incluir: equipo inicial, cronograma preliminar, riesgos clave, entregables principales, recursos disponibles, dependencias, etc.
+
+#### Para generar el acta se presentan estas dos opciones, escoja la de su preferencia:
+
+Opción 1. Revise el caso de estudio de su preferencia, analice la información solicitada y regístrela en el archivo de Excel titulado “3.3.ActaConstitución”
+
+Opción 2: Puede usar la siguiente herramienta online de inteligencia artificial generativa que no requiere registro y siguiendo los siguientes pasos:
+1.	Ingresar a https://www.chatpdf.com/es
+
+![diagrama1](../images/3.3.Img2.jpg)
+
+
+2.	Arrastrar a la herramienta del navegador el caso de estudio de su preferencia y escribir las instrucciones (prompt) para generar el acta de constitución a partir del caso. En la parte derecha de la imagen se resalta en rojo un ejemplo del prompt, el cual lo pueden tomar como base y ampliarlo más para obtener mayor detalle en el resultado.
+
+![diagrama1](../images/3.3.Img3.jpg)
+
+3.	Copiar la información generada en el archivo de Excel titulado “3.3.ActaConstitución”
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+Con base en el siguiente ejemplo, reemplazar los textos con la información solicitada:
 
+![imagen resultado](../images/3.3.ImgEjemplo.jpg)

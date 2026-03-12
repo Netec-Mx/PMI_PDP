@@ -1,42 +1,37 @@
-# Nombre del laboratorio 
+# 7.2. Lecciones Aprendidas
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+
+Registrar los elementos aprendidos en el proyecto e identificará la importancia de esta actividad en el proyecto
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Tomando en cuenta su experiencia profesional y el desarrollo de los ejercicios, registrar lo que se aprendió durante la ejecución del proyecto.
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/7.2.Img1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 15 minutos.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Excel titulado “7.2.LeccionesAprendidas” y complete la siguiente información: 
+•	Rol del equipo del proyecto: Rol del miembro del equipo que identificó la lección aprendida
 
-Paso 3. <!-- Añadir instrucción -->
+•	¿Cuál fue la acción tomada?: Describir la acción que se llevó a cabo
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+•	¿Cuál fue el resultado?: Describir el resultado obtenido después de tomar la acción del punto anterior
 
-Paso 2. <!-- Añadir instrucción -->
+•	¿Cuál es la lección aprendida específicamente?: Describir específicamente cuál fue la lección aprendida
 
-Paso 3. <!-- Añadir instrucción -->
+•	¿Dónde y cómo puede utilizarse este conocimiento en un proyecto futuro?: Indicar en qué momento y cómo se puede utilizar esta lección aprendida en un futuro proyecto
+
+•	¿Quién debería ser informado acerca de esta lección aprendida?: Indicar qué persona o rol debería ser informado de esta lección aprendida
+
+•	¿Cómo debería ser difundida esta lección aprendida?: Indicar el medio por el cual se recomienda difundir esta lección aprendida (email, intranet, web, memorando, reunión, llamada telefónica, etc.)
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+Con base en el ejemplo, llenar el informe con la información solicitada:
 
+![imagen resultado](../images/7.2.ImgEjemplo.jpg)

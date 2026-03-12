@@ -1,41 +1,41 @@
-# Nombre del laboratorio 
+# 7.1. Informe Final
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+
+Entender la importancia de elaborar un informe final del proyecto, como una herramienta que demuestra lo que se completó o logro dentro del proyecto.
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
+Tomando en cuenta su experiencia profesional, el acta de proyecto, los riesgos presentados y las acciones correctivas, desarrollar un informe final del proyecto en el que se contraste lo planeado con lo que se logró al término del proyecto.
 
-![diagrama1](../images/img1.png)
+![diagrama1](../images/7.1.Img1.jpg)
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 30 minutos.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea. Abra el archivo de Word titulado “7.1.InformeFinal” y complete la siguiente información: 
 
-Paso 3. <!-- Añadir instrucción -->
+•	Información General del Proyecto: Datos básicos como nombre, duración, responsable y área ejecutora.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+•	Resumen Ejecutivo: Síntesis del desarrollo y resultados del proyecto, incluyendo logros y dificultades.
 
-Paso 2. <!-- Añadir instrucción -->
+•	Cumplimiento de Objetivos: Evaluación del grado en que se alcanzaron los objetivos propuestos.
 
-Paso 3. <!-- Añadir instrucción -->
+•	Alcance Final del Proyecto: Productos, entregables y actividades realmente completadas al cierre.
+
+•	Análisis de Desempeño del Proyecto: Comparación entre lo planificado y lo ejecutado en costo, tiempo y calidad.
+
+•	Cierre Administrativo: Validación formal del cierre del proyecto, entrega de documentación y liberación de recursos.
+
 
 ### Resultado esperado
-En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+Con base en el ejemplo, llenar el informe con la información solicitada:
+
+![imagen resultado](../images/7.1.ImgEjemplo.jpg)
+![imagen resultado](../images/7.1.ImgEjemplo2.jpg)
+
+
+
