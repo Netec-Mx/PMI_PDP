@@ -1,4 +1,4 @@
-# 4.5. Comunicaciones
+# 4.6. Comunicaciones
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
