@@ -74,7 +74,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
    - **Descripción**: Entender la importancia de elaborar un informe final del proyecto, como una herramienta que demuestra lo que se completó o logro dentro del proyecto.
    - ⏱️**Duración estimada**: 30 min.
 
-### [7.2. Lecciones Aprendidas](Capítulo7/README_7.2.md)
+### [Práctica 7.2. Lecciones Aprendidas](Capítulo7/README_7.2.md)
    - **Descripción**: Registrar los elementos aprendidos en el proyecto e identificará la importancia de esta actividad en el proyecto.
    - ⏱️**Duración estimada**: 15 min.
 ---
