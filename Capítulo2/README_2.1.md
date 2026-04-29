@@ -19,7 +19,7 @@ Opción 1. Caso de estudio de Tecnología. Abra el archivo PDF titulado “2.1.C
 
 ![diagrama1](../images/2.1.Img1.jpg)
 
-Opción 2. Caso de estudio de Construcción. Abra el archivo PDF titulado “2.1.CasoNegocioTecnología”
+Opción 2. Caso de estudio de Construcción. Abra el archivo PDF titulado “2.1.CasoNegocioConstrucción”
 
 ![diagrama1](../images/2.1.Img2.jpg)
 ### Tarea2.  Hacer un mapa mental con los principales elementos y afectaciones al proyecto, identificando: ¿Qué?, ¿Por qué? ¿cuándo? ¿Para qué? ¿Quién? ¿Cómo? entre otros datos.

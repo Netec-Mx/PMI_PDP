@@ -1,14 +1,12 @@
-# 4.3. Ruta Crítica
-
+# 4.3. Creación de la EDT
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
 
-Hacer los cálculos correctos para mostrar la secuencia de actividades necesarias para completar el trabajo del proyecto y establecerá la ruta crítica.
-
+Entender la importancia de identificar y desglosar los entregables para determinar el trabajo requerido para completar el proyecto.
 ## Objetivo Visual 
-Siguiendo el ejercicio identifique la secuencia de actividades que establecerán la ruta crítica.
+Tomando en cuenta el caso de estudio o su experiencia profesional, determine los entregables necesarios para completar el proyecto.
 
-![diagrama1](../images/4.3.Img1.jpg)
+![diagrama1](../images/4.2.Img2.jpg)
 
 ## Duración aproximada:
 - 25 minutos.
@@ -16,12 +14,18 @@ Siguiendo el ejercicio identifique la secuencia de actividades que establecerán
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
-### Tarea. Identificar las rutas desde el inicio hasta la actividad final G
-A continuación, se listan las actividades necesarias para organizar una fiesta, junto con sus duraciones y dependencias:
+### Tarea. Desglosar e identificar los paquetes de planificación y los paquetes de trabajo en sustantivo y aplicando la regla del 100%.
+Opción 1: Puede realizarlo manualmente y tomarle una foto si desea compartirlo o usar la herramienta de su preferencia.
 
-![diagrama1](../images/4.3.Img2.jpg)
+Opción 2: Puede usar la siguiente herramienta online que no requiere registro y siguiendo los siguientes pasos:
+1.	Ingresar a https://www.gloomaps.com/
+
+2.	Iniciar la creación como se indica en la parte derecha de la imagen en el cuadro resaltado en rojo, botón “Start creating”
+
+![diagrama1](../images/4.2.Img3.jpg)
 
 ### Resultado esperado
-1.  A → C → G = 2 + 2 + 0 = 4 días
-2.  A → D → F → G = 2 + 1 + 1 + 0 = 4 días
+Con base en el siguiente ejemplo, llenar la información solicitada:
+
+![imagen resultado](../images/4.2.ImgEjemplo2.jpg)
 

@@ -1,14 +1,14 @@
-# 4.4. Riesgos
+# 4.4. Ruta Crítica
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
 
-Identificar y analizar los riesgos que afectan al proyecto y establecer los planes de mitigación necesarios para afrontar dichos riesgos
+Hacer los cálculos correctos para mostrar la secuencia de actividades necesarias para completar el trabajo del proyecto y establecerá la ruta crítica.
 
 ## Objetivo Visual 
-Tomando en cuenta el caso de estudio o su experiencia profesional, identifique amenazas y oportunidades a las que se podría enfrentarse el proyecto y escríbalas en el formato de Registro de Riesgos, así mismo evalúe la probabilidad y el impacto de cada riesgo para establecer su severidad y la posible acción para mitigarlos.
+Siguiendo el ejercicio identifique la secuencia de actividades que establecerán la ruta crítica.
 
-![diagrama1](../images/4.4.Img1.jpg)
+![diagrama1](../images/4.3.Img1.jpg)
 
 ## Duración aproximada:
 - 25 minutos.
@@ -16,24 +16,12 @@ Tomando en cuenta el caso de estudio o su experiencia profesional, identifique a
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 
-### Tarea. Abra el archivo de Excel titulado “4.4.Riesgos” y complete la siguiente información: 
+### Tarea. Identificar las rutas desde el inicio hasta la actividad final G
+A continuación, se listan las actividades necesarias para organizar una fiesta, junto con sus duraciones y dependencias:
 
-•	Descripción: Detalle específico del riesgo identificado.
-
-•	Categoría: Tipo o grupo al que pertenece el riesgo (ej. técnico, financiero, operativo, externo).
-
-•	Probabilidad (1-5): Nivel estimado de ocurrencia del riesgo, donde 1 es muy baja y 5 es muy alta.
-
-•	Impacto (1-5): Grado de afectación que tendría el riesgo si ocurre, de 1 (bajo) a 5 (alto).
-
-•	Riesgo (1-25): Valor calculado multiplicando probabilidad × impacto, usado para priorizar riesgos.
-
-•	Disparador: Evento o condición que indica que el riesgo está a punto de ocurrir o ya sucedió.
-
-•	Mitigación: Acciones planificadas para reducir la probabilidad o impacto del riesgo.
+![diagrama1](../images/4.3.Img2.jpg)
 
 ### Resultado esperado
-Con base en las primeras tres líneas de ejemplo, llenar el cuadro con la información solicitada:
-
-![imagen resultado](../images/4.4.ImgEjemplo.jpg)
+1.  A → C → G = 2 + 2 + 0 = 4 días
+2.  A → D → F → G = 2 + 1 + 1 + 0 = 4 días
 
